@@ -3,4 +3,5 @@
 @theme {
 	/* default font */
 	--font-sans: "Noto Sans", sans-serif;
+	--color-accent: rgb(22, 113, 182); /* temp */
 }
