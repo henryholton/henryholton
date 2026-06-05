@@ -13,6 +13,8 @@
 	"dependencies": {
 		"@tailwindcss/vite": "^4.3.0",
 		"@unhead/vue": "^3.1.1",
+		"@vueuse/core": "^14.3.0",
+		"@vueuse/math": "^14.3.0",
 		"gh-pages": "^6.3.0",
 		"tailwindcss": "^4.3.0",
 		"vue": "^3.5.32",
