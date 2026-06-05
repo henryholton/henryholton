@@ -2,6 +2,7 @@
 
 @theme {
 	/* default font */
-	--font-sans: "Noto Sans", sans-serif;
+	--font-sans: Roboto, system-ui, sans-serif;
 	--color-accent: rgb(22, 113, 182); /* temp */
+	--color-light: var(--color-gray-700);
 }
