@@ -1,3 +1,3 @@
-# Henry Holton Homepage
+# Henry Holton
 
-Hi! This is my homepage... I'll be working on it over time.....
+Hi!
